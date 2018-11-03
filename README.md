@@ -15,9 +15,9 @@ In order to start playing this game, one must have to do the following:
 
 ## Introduction
 
-As the name suggests, this is a color guessing game. The player will initially be presented with 3x2 matrix. All 6 squares will have different colors. A hexa-decimal color code will be displayed on the top of the squares. The player have to select which square represents the color to win.
+As the name suggests, this is a color guessing game. The player will initially be presented with 3x2 matrix. All 6 squares will have different colors. A hexa-decimal color code will be displayed on the top. The player have to select which square represents the color to win.
 
-The game have 2 modes, easy and hard. Initially, the game starts with hard mode which have 3x2 matrix (total 6 sqaures). And, in easy mode the player is presented only 3 cubes. The rules remains the same, guess the correct square which have the same color as shown above the squares. 
+The game have 2 modes, easy and hard. Initially, the game starts with hard mode which have 3x2 matrix (total 6 squares). And, in easy mode the player is presented only 3 cubes. The rules remains the same, guess the correct square which have the same color as shown above the squares. 
 
 ## Working
 
